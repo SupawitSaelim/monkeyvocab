@@ -2139,7 +2139,7 @@
       matchedIds: new Set(),
 
       // Endless mode toggle
-      endlessShowGhost: true,
+      endlessShowGhost: false,
 
       // Glossary filter
       glossaryFilter: 'all',
@@ -2321,7 +2321,9 @@
         } else {
           endlessGhostBtn.classList.add('hidden');
         }
-        instructionText.textContent = 'พิมพ์ตัวอักษรภาษาอังกฤษตามคำใบ้สีจางได้เลย (ไม่สนตัวพิมพ์เล็ก-ใหญ่)';
+        instructionText.textContent = game.mode === 'endless' && !game.endlessShowGhost
+          ? 'นึกคำศัพท์จากความหมายและบริบท แล้วพิมพ์สะกดให้ถูกต้อง (ไม่สนตัวพิมพ์เล็ก-ใหญ่)'
+          : 'พิมพ์ตัวอักษรภาษาอังกฤษตามคำใบ้สีจางได้เลย (ไม่สนตัวพิมพ์เล็ก-ใหญ่)';
       }
 
       // Populate Thai Meaning & Context Sentence
@@ -2377,7 +2379,9 @@
       const tokensContainer = document.getElementById('word-tokens');
       tokensContainer.innerHTML = '';
 
-      const showGhost = game.phase === 1 || (game.mode === 'endless' && game.endlessShowGhost);
+      const showGhost = game.mode === 'endless'
+        ? game.endlessShowGhost
+        : game.phase === 1;
 
       // Split target into words by space while tracking global character index
       let globalIdx = 0;
@@ -2926,6 +2930,9 @@
       document.getElementById('endless-ghost-indicator').textContent = game.endlessShowGhost
         ? '👁️ Ghost Letters: ON'
         : '🙈 Ghost Letters: OFF';
+      document.getElementById('typing-instruction-text').textContent = game.endlessShowGhost
+        ? 'พิมพ์ตัวอักษรภาษาอังกฤษตามคำใบ้สีจางได้เลย (ไม่สนตัวพิมพ์เล็ก-ใหญ่)'
+        : 'นึกคำศัพท์จากความหมายและบริบท แล้วพิมพ์สะกดให้ถูกต้อง (ไม่สนตัวพิมพ์เล็ก-ใหญ่)';
       renderTypingCharacters();
     }
 
