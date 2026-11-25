@@ -1,5 +1,412 @@
-ถ้าจะปูใหม่แบบเน้นเอาไปใช้สอบให้เร็วที่สุด ให้ตัดรายละเอียดปลีกย่อยทิ้งแล้วโฟกัสแค่ 4 เสาหลัก นี้เรียงตามลำดับครับ:
-Parts of Speech & Word Form: แยกชนิดของคำ (Noun / Verb / Adj / Adv) จากตำแหน่งในประโยคและคำลงท้าย (Suffix) เรื่องนี้เก็บคะแนนได้ไวที่สุดและใช้เป็นฐานต่อยอดเรื่องอื่น
-Subject-Verb Agreement & Sentence Core: ฝึกตัดส่วนขยาย (พวก Preposition + Noun อย่าง of the new heating system) ทิ้ง เพื่อหา ประธานแท้ กับ กริยาแท้ ให้เจอและผันให้ตรงกัน
-Tenses & Passive Voice: ไม่ต้องท่องครบ 12 Tenses แต่จับคู่ที่ใช้จริงในข้อสอบให้แม่น โดยเฉพาะ have/has + V.3 และโครงสร้างถูกกระทำ be + V.3
-Connectors & Relative Clauses: รู้จักคำเชื่อมและตัวขยายอย่าง who, which, that, although, despite เพื่อไม่ให้หลงทางเวลาเจอประโยคซ้อนหลายชั้น
+1. Parts of Speech & Word Forms
+จำแค่ 4 ชนิด
+ชนิดคำ	หน้าที่	ตัวอย่างNoun (N)	คน/สิ่ง/เรื่อง	success
+Verb (V)	การกระทำ/สภาพ	succeed
+Adjective (Adj)	ขยาย Noun	successful
+Adverb (Adv)	ขยาย Verb/Adj	successfully
+สูตรดูตำแหน่ง
+a/an/the + ___ → มักเป็น Noun
+___ + Noun → Adjective
+Subject + ___ → Verb
+Verb + ___ → มักเป็น Adverb
+Suffix จำสอบ
+Noun: -tion, -ment, -ness, -ity
+Adjective: -al, -ive, -ous, -ful
+Adverb: -ly
+Verb: -ize, -ify
+
+ทริคเดียว: ดู ตำแหน่ง ก่อนดูความหมายและคำลงท้าย
+
+
+2. Sentence Core
+
+หาแค่:
+
+ใคร/อะไร + ทำอะไร/เป็นอะไร
+ Subject + Main Verb
+
+ทริคจำสอบ
+
+ข้ามก้อนขยาย แล้วจับประธานกับกริยา
+
+ก้อนขยายมักเริ่มด้วย:
+
+of, in, on, with, for, from
+
+ตัวอย่าง
+
+The quality of these products is excellent.
+
+ตัดก้อนขยาย:
+
+The quality is excellent.
+
+Subject = quality
+Main Verb = is
+
+จำสั้นสุด: ตัดก้อนขยาย เพื่อหา S + V แท้
+
+
+3. Subject–Verb Agreement
+
+กริยาต้องตรงกับ ประธานแท้
+
+สูตรจำสอบ
+
+ประธานหนึ่ง → Verb เติม s
+ ประธานหลาย → Verb ไม่เติม s
+
+The system works.
+The systems work.
+Verb พิเศษ
+หนึ่ง	หลายis	are
+has	have
+does	do
+ตัวหลอกที่ต้องจำ
+Each / Every / One of → Verb เอกพจน์
+The number of → Verb เอกพจน์
+A number of → Verb พหูพจน์
+
+ทริค: ข้ามก้อนขยาย → หา Subject แท้ → หนึ่งเติม s, หลายไม่เติม s
+
+
+4. Tenses & Tense Consistency
+
+ดู คำบอกเวลา ก่อน แล้วเลือกโครงสร้างกริยา
+
+คำบอกเวลา	Tense	สูตรusually, every day	Present Simple	V1 / V-s
+now, currently	Present Continuous	is/am/are + V-ing
+yesterday, last year	Past Simple	V2
+since, for, already	Present Perfect	has/have + V3
+tomorrow, next year	Future Simple	will + V1
+ทริคจำสอบ
+
+หาคำบอกเวลา → เลือก Tense → ตรวจรูป Verb
+
+ตัวอย่าง:
+
+She has worked here since 2020.
+
+Tense Consistency: ถ้าเหตุการณ์อยู่ในช่วงเวลาเดียวกัน กริยาควรไปในทิศทางเดียวกัน
+
+He opened the file and checked the data. ✅
+
+จำสั้นสุด: เวลาไหน ใช้กริยาให้ตรงเวลานั้น
+
+5. Active & Passive Voice
+Active: ประธานเป็นผู้ทำ
+
+S + Verb + Object
+
+The engineer configured the router.
+
+Passive: ประธานเป็นผู้ถูกกระทำ
+
+S + be + V3
+
+The router was configured by the engineer.
+
+ทริคจำสอบ
+
+ทำเอง → Active
+ ถูกทำ → Passive = be + V3
+
+ตัวอย่าง:
+
+The system sends an alert. → Active
+An alert is sent by the system. → Passive
+จุดที่ต้องตรวจ
+
+be ต้องผันตาม Tense และ Subject
+
+is/are + V3 → ปัจจุบัน
+was/were + V3 → อดีต
+has/have been + V3 → Present Perfect
+will be + V3 → อนาคต
+
+จำสั้นสุด: เห็น “ถูก...” ให้เลือก be + V3
+
+
+6. Gerunds & Infinitives
+Gerund: V-ing
+Infinitive: to + V1
+คำที่ตามด้วย V-ing
+
+enjoy, avoid, finish, consider, suggest, mind
+
+She enjoys reading.
+They avoided making mistakes.
+คำที่ตามด้วย to + V1
+
+want, need, plan, hope, decide, agree
+
+We plan to upgrade the system.
+He decided to leave.
+หลัง Preposition ใช้ V-ing
+
+in, on, at, for, of, without, before, after
+
+Thank you for helping.
+He left without saying goodbye.
+
+จำสั้นสุด: หลัง Preposition → V-ing ส่วนคำอื่นต้องจำว่าเลือก V-ing หรือ to + V1
+
+
+
+7. Pronouns & Pronoun Agreement
+
+Pronoun ต้องแทนคำนามให้ตรงกันทั้ง จำนวน และ บุคคล
+
+Subject	Object	เจ้าของI	me	my
+he	him	his
+she	her	her
+it	it	its
+they	them	their
+ตัวอย่าง
+The student submitted his or her report.
+The students submitted their reports.
+The company changed its policy.
+ตัวหลอก
+its = ของมัน
+it’s = it is
+
+จำสั้นสุด: ดูว่าคำ Pronoun แทนใคร แล้วทำให้ หนึ่ง/หลายตรงกับคำนามนั้น
+
+หมายเหตุ: ในภาษาอังกฤษปัจจุบันสามารถใช้ singular they ได้ เช่น Each student submitted their report.
+
+
+8. Relative Clauses
+
+ใช้เชื่อมประโยคและขยายคำนามที่อยู่ข้างหน้า
+
+คำ	ใช้แทนwho	คน เป็นประธาน
+whom	คน เป็นกรรม
+whose	แสดงความเป็นเจ้าของ
+which	สิ่งของ/สัตว์
+that	คนหรือสิ่งของ
+ตัวอย่าง
+The engineer who works here is experienced.
+The router which failed was replaced.
+The employee whose laptop was stolen reported the incident.
+The device that connects the networks is a router.
+ทริคจำสอบ
+
+คน who | ของ which | เจ้าของ whose | ใช้ได้กว้าง that
+
+จุดสำคัญ: หลัง who/which/that ถ้ายังไม่เห็นประธาน มันทำหน้าที่เป็นประธานเอง
+
+The router that connects the networks ✅
+ The router that it connects the networks ❌
+
+
+9. Clauses & Connectors
+จำเป็นคู่
+ตามด้วยประโยค S + V	ตามด้วย Noun / V-ingbecause	because of
+although / even though	despite / in spite of
+ตัวอย่าง
+Because the system failed, work stopped.
+Because of the system failure, work stopped.
+Although it rained, we continued.
+Despite the rain, we continued.
+ทริคจำสอบ
+
+มี S + V → because / although
+ ไม่มี S + V → because of / despite
+
+ตัวเชื่อมที่พบบ่อย
+and = และ
+but = แต่
+because = เพราะว่า
+although = แม้ว่า
+therefore = ดังนั้น
+however = อย่างไรก็ตาม
+
+
+10. Prepositions
+เวลา
+at → เวลาเจาะจง: at 8:00
+on → วัน/วันที่: on Monday
+in → เดือน/ปี/ช่วงเวลา: in November, in 2026
+
+จำ: at เวลา | on วัน | in ช่วงใหญ่
+
+สถานที่
+at → จุด: at the station
+on → บนพื้นผิว: on the table
+in → อยู่ภายใน: in the room
+คู่คำที่ควรจำ
+interested in
+responsible for
+depend on
+good at
+similar to
+different from
+ทริคจำสอบ
+
+Preposition ต้องจำเป็นคู่คำ และหลัง Preposition ใช้ Noun หรือ V-ing
+
+interested in technology
+interested in learning English
+
+
+11. Modal Verbs
+
+Modal ที่พบบ่อย:
+
+can, could, may, might, must, should, will, would
+
+โครงสร้าง
+
+Modal + V1 ไม่เติม s
+
+She can work. ✅
+She can works. ❌
+The report must be accurate. ✅
+ความหมายหลัก
+Modal	ความหมายcan	สามารถ
+may / might	อาจจะ
+must	ต้อง
+should	ควร
+will	จะ
+would	จะ/อยาก แบบสุภาพหรือมีเงื่อนไข
+Passive หลัง Modal
+
+Modal + be + V3
+
+The system must be updated.
+
+จำสั้นสุด: หลัง Modal ใช้ V1 เสมอ และไม่เติม s
+
+
+12. Countable / Uncountable Nouns
+Countable: นับเป็นชิ้นได้
+one device
+two devices
+ใช้ a/an, many, few
+Uncountable: นับตรง ๆ ไม่ได้
+information, advice, equipment, research
+ใช้ much, little
+ห้ามเติม s และ ห้ามใช้ a/an
+ตัวอย่างที่ชอบออกสอบ
+an information ❌ → some information ✅
+many equipments ❌ → much equipment ✅
+an advice ❌ → a piece of advice ✅
+ใช้ได้ทั้งสองแบบ
+some / a lot of + Countable หรือ Uncountable
+
+จำสั้นสุด: นับได้ใช้ many + N-s | นับไม่ได้ใช้ much + N ไม่เติม s
+
+
+13. Comparisons
+ขั้นกว่า: เปรียบเทียบ 2 สิ่ง
+
+Adj-er + than หรือ more + Adj + than
+
+faster than
+more reliable than
+ขั้นที่สุด: ตั้งแต่ 3 สิ่งขึ้นไป
+
+the + Adj-est หรือ the most + Adj
+
+the fastest
+the most reliable
+เท่ากัน
+
+as + Adj + as
+
+as fast as
+as reliable as
+คำพิเศษ
+good → better → best
+bad → worse → worst
+many/much → more → most
+
+จำสั้นสุด: เห็น than ใช้ขั้นกว่า | เห็น the + กลุ่มเปรียบเทียบ ใช้ขั้นที่สุด | as...as ใช้รูปปกติ
+
+
+
+14. Participles: V-ing / V3
+
+ใช้เป็น Adjective เพื่อขยายคำนาม:
+
+V-ing → สิ่งนั้นเป็นตัวก่อให้เกิดความรู้สึก
+V3 → คนหรือสิ่งนั้นได้รับความรู้สึก
+ตัวอย่าง
+
+The lesson is boring.
+ บทเรียนทำให้เบื่อ
+
+The students are bored.
+ นักเรียนรู้สึกเบื่อ
+
+The result is surprising.
+
+We are surprised by the result.
+
+ใช้ย่อส่วนขยาย
+
+The devices connected to the switch are active.
+ อุปกรณ์ที่ ถูกเชื่อมต่อ
+
+The engineer working here is experienced.
+ วิศวกรที่ กำลังทำงาน
+
+จำสั้นสุด: ทำให้รู้สึกใช้ V-ing | รู้สึก/ถูกกระทำใช้ V3
+
+
+15. Parallel Structure
+
+สิ่งที่เชื่อมด้วย and / or / but ต้องมีรูปคำเหมือนกัน
+
+ตัวอย่าง
+
+She enjoys reading, writing, and speaking. ✅
+
+She enjoys reading, writing, and to speak. ❌
+
+The system is fast, reliable, and secure. ✅
+ ทั้งหมดเป็น Adjective
+
+โครงสร้างคู่
+both A and B
+either A or B
+neither A nor B
+not only A but also B
+
+จำสั้นสุด: เห็นคำเชื่อม ให้เช็กซ้าย–ขวาว่ารูปเหมือนกัน
+
+เช่น:
+
+to install and configure ✅
+ installing and configuring ✅
+ to install and configuring ❌
+
+
+16. Word Order & Modifier Placement
+ลำดับพื้นฐาน
+
+Subject + Verb + Object
+
+The engineer configured the router.
+ตำแหน่งคำขยาย
+
+Adjective + Noun
+ a reliable system
+
+Verb + Adverb
+ The system works efficiently.
+
+be + Adjective
+ The system is efficient.
+
+Modifier Placement
+
+วางคำขยาย ใกล้คำที่ต้องการขยาย
+
+She only tested the router.
+ = เธอแค่ทดสอบ ไม่ได้แก้ไข
+
+She tested only the router.
+ = เธอทดสอบเฉพาะ router
+
+จำสั้นสุด: Adj อยู่หน้าคำนาม, Adv ขยายกริยา และคำขยายต้องอยู่ใกล้คำที่มันขยาย
